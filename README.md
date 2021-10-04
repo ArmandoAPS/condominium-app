@@ -1,2 +1,2 @@
-# condominium-app
+# Condominium Administration App
 Android app for condominium administration
